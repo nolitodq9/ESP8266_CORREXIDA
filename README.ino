@@ -1,4 +1,4 @@
-//Comunicación MQTT con servo empregando ESP8266
+//Comunicación MQTT con servo empregando ESP8266.
 
 #include <ESP8266WiFi.h>
 #include <Servo.h>
